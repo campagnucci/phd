@@ -1,0 +1,133 @@
+Source,Target,Type,Weight
+Critical Studies,algorithms,Undirected,6
+Critical Studies,data formats,Undirected,1
+Critical Studies,power relations,Undirected,1
+Critical Studies,redlining,Undirected,1
+Critical Studies,data visualization,Undirected,1
+Critical Studies,data infrastructure,Undirected,8
+Critical Studies,health,Undirected,14
+Critical Studies,public safety,Undirected,1
+Critical Studies,smart cities,Undirected,4
+Critical Studies,surveillance,Undirected,10
+Critical Studies,environment,Undirected,1
+Critical Studies,urban management,Undirected,4
+Critical Studies,migration,Undirected,2
+Critical Studies,biometrics,Undirected,1
+Critical Studies,digital identity,Undirected,1
+Critical Studies,colonialism,Undirected,1
+Critical Studies,data activism,Undirected,4
+Technology,artificial intelligence,Undirected,2
+Technology,data quality,Undirected,1
+Technology,data cascades,Undirected,1
+Economics of Data,data value,Undirected,5
+Economics of Data,data sovereignty,Undirected,1
+Economics of Data,surveillance,Undirected,1
+Critical Studies,data analytics,Undirected,5
+Critical Studies,decision-making,Undirected,5
+Critical Studies,digital rights,Undirected,2
+Governance,decision-making,Undirected,3
+Governance,health,Undirected,7
+Governance,data infrastructure,Undirected,5
+Critical Studies,data security,Undirected,4
+Critical Studies,data sovereignty,Undirected,3
+Critical Studies,cross-border data,Undirected,1
+Governance,data sharing,Undirected,5
+Governance,data cooperatives,Undirected,1
+Governance,data trusts,Undirected,1
+Critical Studies,sensory power,Undirected,1
+Critical Studies,data assemblages,Undirected,3
+Critical Studies,big techs,Undirected,1
+Critical Studies,personal data,Undirected,2
+Critical Studies,privacy,Undirected,6
+Critical Studies,public-private boundaries,Undirected,3
+Governance,citizen-generated data,Undirected,2
+Governance,IoT,Undirected,2
+Critical Studies,data profiling,Undirected,1
+Critical Studies,data ethics,Undirected,5
+Technology,smart cities,Undirected,2
+Technology,IoT,Undirected,1
+Governance,data activism,Undirected,3
+Technology,urban management,Undirected,2
+Governance,data justice,Undirected,1
+Governance,data ecosystem,Undirected,2
+Critical Studies,datafication,Undirected,12
+Critical Studies,education,Undirected,5
+Critical Studies,data for development,Undirected,3
+Critical Studies,data divides,Undirected,1
+Critical Studies,open government data,Undirected,2
+Critical Studies,indigenous,Undirected,3
+Critical Studies,policymaking,Undirected,5
+Critical Studies,data sharing,Undirected,1
+Governance,cybersecurity,Undirected,1
+Economics of Data,value tensions,Undirected,1
+Governance,smart cities,Undirected,4
+Governance,urban management,Undirected,4
+Governance,power relations,Undirected,1
+Critical Studies,mobility,Undirected,1
+Critical Studies,democracy,Undirected,2
+Governance,surveillance,Undirected,1
+Governance,privacy,Undirected,5
+Technology,interoperability,Undirected,2
+Technology,ontologies,Undirected,2
+Technology,semantics,Undirected,1
+Critical Studies,big data,Undirected,12
+Economics of Data,big data,Undirected,2
+Economics of Data,data assets,Undirected,1
+Governance,social welfare,Undirected,2
+Governance,datafication,Undirected,2
+Governance,digital government,Undirected,1
+Governance,digital identity,Undirected,1
+Economics of Data,data profiling,Undirected,1
+Economics of Data,data analytics,Undirected,1
+Governance,secrecy,Undirected,1
+Critical Studies,data ownership,Undirected,2
+Critical Studies,agriculture,Undirected,1
+Technology,datafication,Undirected,1
+Technology,education,Undirected,1
+Technology,public-private boundaries,Undirected,1
+Governance,policymaking,Undirected,7
+Governance,algorithms,Undirected,2
+Governance,artificial intelligence,Undirected,1
+Governance,citizen science,Undirected,1
+Governance,data analytics,Undirected,2
+Governance,data-driven elections,Undirected,1
+Governance,citizen scoring,Undirected,1
+Critical Studies,data friction,Undirected,1
+Critical Studies,digital traces,Undirected,1
+Critical Studies,big data ethics,Undirected,1
+Governance,data sovereignty,Undirected,1
+Governance,indigenous,Undirected,1
+Critical Studies,digital government,Undirected,1
+Economics of Data,IoT,Undirected,1
+Governance,environment,Undirected,2
+Governance,open government data,Undirected,3
+Critical Studies,data justice,Undirected,1
+Critical Studies,ontologies,Undirected,1
+Governance,data-driven innovation,Undirected,1
+Governance,public-private boundaries,Undirected,3
+Governance,mobility,Undirected,1
+Governance,government coordination,Undirected,1
+Technology,open government data,Undirected,2
+Technology,linked data,Undirected,2
+Technology,big techs,Undirected,1
+Technology,digital traces,Undirected,1
+Critical Studies,data value,Undirected,2
+Critical Studies,algorithm accountability,Undirected,2
+Critical Studies,artificial intelligence,Undirected,2
+Critical Studies,reproducibility,Undirected,1
+Governance,big data,Undirected,2
+Governance,algorithm accountability,Undirected,1
+Governance,agriculture,Undirected,1
+Critical Studies,data assets,Undirected,1
+Governance,data value,Undirected,1
+Critical Studies,commodification of personal data,Undirected,1
+Critical Studies,copyrights,Undirected,1
+Technology,big data,Undirected,2
+Technology,data analytics,Undirected,1
+Governance,data ownership,Undirected,1
+Governance,data brokers,Undirected,1
+Technology,performance,Undirected,1
+Technology,policymaking,Undirected,1
+Economics of Data,privacy,Undirected,1
+Governance,education,Undirected,1
+Technology,data infrastructure,Undirected,1

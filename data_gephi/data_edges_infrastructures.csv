@@ -1,0 +1,212 @@
+Source,Target,Type,Weight
+Governance,data value,Undirected,1
+Governance,public value,Undirected,3
+Governance,data sharing,Undirected,39
+Governance,accountability,Undirected,1
+Governance,geospatial data,Undirected,34
+Governance,data infrastructure,Undirected,11
+Governance,cartography,Undirected,1
+Technology,geospatial data,Undirected,65
+Technology,interoperability,Undirected,17
+Technology,environment,Undirected,7
+Technology,data analytics,Undirected,3
+Technology,big data,Undirected,4
+Technology,e-participation,Undirected,1
+Technology,data lifecycle,Undirected,1
+Governance,environment,Undirected,4
+Governance,big data,Undirected,7
+Technology,urban management,Undirected,2
+Technology,data model,Undirected,8
+Technology,remote sensing,Undirected,1
+Governance,citizen science,Undirected,1
+Governance,data for development,Undirected,1
+Technology,data infrastructure,Undirected,4
+Technology,bioenergy,Undirected,1
+Technology,knowledge discovery,Undirected,1
+Governance,personal data,Undirected,10
+Governance,federalism,Undirected,2
+Technology,data standards,Undirected,34
+Governance,decision-making,Undirected,4
+Governance,data analytics,Undirected,2
+Governance,open government data,Undirected,8
+Governance,participation,Undirected,3
+Governance,data quality,Undirected,6
+Economics of Data,digital economy,Undirected,1
+Economics of Data,cross-border data flows,Undirected,1
+Economics of Data,privacy,Undirected,1
+Governance,urban management,Undirected,3
+Technology,open government data,Undirected,8
+Critical Studies,cross-border data flows,Undirected,1
+Critical Studies,data sovereignty,Undirected,3
+Critical Studies,data security,Undirected,1
+Critical Studies,data politics,Undirected,3
+Critical Studies,digital economy,Undirected,2
+Critical Studies,regulation,Undirected,2
+Critical Studies,democracy,Undirected,1
+Governance,smart cities,Undirected,1
+Governance,data-driven decision making,Undirected,1
+Economics of Data,geospatial data,Undirected,5
+Economics of Data,data value,Undirected,2
+Economics of Data,performance,Undirected,1
+Economics of Data,mobility,Undirected,1
+Economics of Data,data divides,Undirected,1
+Economics of Data,regulation,Undirected,1
+Economics of Data,trade,Undirected,1
+Economics of Data,smart cities,Undirected,1
+Economics of Data,IoT,Undirected,1
+Economics of Data,accounting,Undirected,1
+Governance,agriculture,Undirected,3
+Governance,innovation,Undirected,1
+Governance,land registry,Undirected,3
+Governance,data brokers,Undirected,1
+Governance,data integration,Undirected,1
+Governance,data commons,Undirected,1
+Technology,data integration,Undirected,6
+Technology,data wharehouse,Undirected,1
+Technology,data sharing,Undirected,13
+Technology,data management,Undirected,15
+Technology,service-oriented architecture,Undirected,4
+Governance,data management,Undirected,9
+Governance,evidence-based governance,Undirected,1
+Technology,land registry,Undirected,2
+Governance,linked data,Undirected,2
+Governance,knowledge base,Undirected,1
+Governance,data reuse,Undirected,6
+Technology,artificial intelligence,Undirected,2
+Technology,geospatial data,Undirected,1
+Technology,data architecture,Undirected,1
+Technology,encryption,Undirected,1
+Technology,data ownership,Undirected,1
+Governance,interoperability,Undirected,2
+Governance,data publishing,Undirected,1
+Technology,health,Undirected,7
+Technology,data quality,Undirected,3
+Technology,disaster risk management,Undirected,3
+Governance,trade,Undirected,1
+Governance,health,Undirected,9
+Governance,indigenous,Undirected,2
+Governance,data sovereignty,Undirected,1
+Governance,harm mitigation,Undirected,1
+Technology,cartography,Undirected,4
+Technology,resilience,Undirected,1
+Governance,data-centric administration,Undirected,1
+Governance,data strategies,Undirected,4
+Technology,ontologies,Undirected,2
+Governance,digital economy,Undirected,2
+Governance,privacy,Undirected,10
+Technology,archeology,Undirected,1
+Technology,open source,Undirected,3
+Technology,social networks,Undirected,1
+Critical Studies,big data,Undirected,1
+Critical Studies,data practices,Undirected,1
+Governance,disaster risk management,Undirected,1
+Governance,regulation,Undirected,4
+Governance,data intermediaries,Undirected,1
+Governance,artificial intelligence,Undirected,2
+Technology,data schema,Undirected,1
+Technology,data triangulation,Undirected,1
+Governance,human rights,Undirected,1
+Governance,data standards,Undirected,2
+Governance,data ecosystem,Undirected,2
+Governance,trust,Undirected,3
+Governance,data custodianship,Undirected,1
+Critical Studies,indigenous,Undirected,3
+Critical Studies,genomics,Undirected,1
+Critical Studies,CARE principles,Undirected,1
+Critical Studies,geospatial data,Undirected,1
+Critical Studies,cartography,Undirected,1
+Critical Studies,power relations,Undirected,1
+Technology,dashboard,Undirected,1
+Technology,decision-making,Undirected,1
+Governance,privacy,Undirected,1
+Critical Studies,monetization,Undirected,1
+Critical Studies,fintechs,Undirected,1
+Critical Studies,innovation,Undirected,1
+Governance,b2g,Undirected,1
+Governance,secondary use,Undirected,1
+Critical Studies,health,Undirected,2
+Technology,ontology,Undirected,1
+Technology,data ecosystem,Undirected,1
+Technology,maturity model,Undirected,2
+Technology,data catalog,Undirected,3
+Governance,education,Undirected,1
+Governance,compliance,Undirected,1
+Governance,data literacy,Undirected,1
+Governance,maturity model,Undirected,2
+Governance,performance,Undirected,1
+Technology,data stewardship,Undirected,1
+Critical Studies,sensory power,Undirected,1
+Governance,data trusts,Undirected,2
+Governance,data stewardship,Undirected,1
+Governance,data enterprise,Undirected,1
+Governance,trusted third party,Undirected,1
+Governance,sensitive data,Undirected,1
+Governance,once-only,Undirected,1
+Governance,digital government,Undirected,3
+Governance,crisis management,Undirected,1
+Critical Studies,data standards,Undirected,1
+Critical Studies,data trusts,Undirected,1
+Critical Studies,data sharing,Undirected,1
+Critical Studies,personal data,Undirected,1
+Technology,data science,Undirected,1
+Technology,network analysis,Undirected,1
+Governance,open infrastructure,Undirected,1
+Governance,data controller,Undirected,1
+Technology,data quality,Undirected,1
+Economics of Data,API,Undirected,1
+Economics of Data,innovation,Undirected,2
+Economics of Data,competition,Undirected,1
+Economics of Data,data sharing,Undirected,2
+Governance,data-driven organizations,Undirected,1
+Technology,data repository,Undirected,1
+Technology,data portal,Undirected,3
+Critical Studies,commodification of data,Undirected,1
+Critical Studies,education,Undirected,1
+Critical Studies,privacy,Undirected,1
+Governance,transparency,Undirected,1
+Technology,data dissemination,Undirected,1
+Governance,official statistics,Undirected,1
+Technology,API,Undirected,1
+Technology,data encoding,Undirected,1
+Governance,data capacity,Undirected,1
+Technology,readiness assessment,Undirected,1
+Technology,digital government,Undirected,2
+Technology,climate change,Undirected,1
+Economics of Data,accountability,Undirected,1
+Economics of Data,data management,Undirected,1
+Economics of Data,business-centric view,Undirected,1
+Economics of Data,land registry,Undirected,1
+Economics of Data,data model,Undirected,1
+Economics of Data,impact,Undirected,1
+Economics of Data,data analytics,Undirected,1
+Governance,data availability,Undirected,2
+Economics of Data,logistics,Undirected,1
+Economics of Data,big data,Undirected,1
+Technology,citizen science,Undirected,1
+Governance,participatory mapping,Undirected,1
+Technology,data reuse,Undirected,1
+Governance,decision model,Undirected,1
+Governance,logistics,Undirected,1
+Technology,participatory mapping,Undirected,1
+Technology,compliance,Undirected,2
+Technology,local government,Undirected,2
+Economics of Data,development,Undirected,2
+Economics of Data,data infrastructure,Undirected,1
+Governance,government coordination,Undirected,6
+Governance,redundancy,Undirected,1
+Governance,capacity building,Undirected,1
+Technology,capacity building,Undirected,1
+Governance,public-private partnerships,Undirected,2
+Governance,metadata,Undirected,1
+Technology,semantics,Undirected,2
+Governance,stakeholders,Undirected,1
+Technology,design,Undirected,1
+Governance,public safety,Undirected,1
+Technology,data security,Undirected,1
+Technology,access control,Undirected,1
+Governance,local government,Undirected,3
+Technology,clearinghouse,Undirected,1
+Governance,power relations,Undirected,1
+Governance,benefits,Undirected,1
+Governance,planning,Undirected,1
+Economics of Data,efficiency,Undirected,1
